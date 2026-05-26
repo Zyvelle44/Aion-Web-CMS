@@ -232,7 +232,7 @@ http://localhost:3000
 # 🌍 Join Our Community
 
 ## Discord
-Coming Soon
+https://discord.gg/43aNPszyJC
 
 ## Development Updates
 Coming Soon
