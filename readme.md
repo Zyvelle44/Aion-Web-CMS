@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.postimg.cc/R0HbgYZH/127-0-0-1-3000.png" width="100%" alt="Aion Website Preview">
+  <img src="https://i.postimg.cc/R0HbgYZH/127-0-0-1-3000.png" width="25%" alt="Aion Website Preview">
 </p>
 
 <p align="center">
